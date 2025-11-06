@@ -39,7 +39,12 @@ class Program
         Console.WriteLine("The numbers subtracted equal: " + subNums);
     }
 
-    //Exterior function (add)
+    /// <summary>
+    /// 
+    /// </summary>
+    /// <param name="int1"></param>
+    /// <param name="int2"></param>
+    /// <returns></returns>
     static int Add (int int1, int int2)
     {
         int value;
